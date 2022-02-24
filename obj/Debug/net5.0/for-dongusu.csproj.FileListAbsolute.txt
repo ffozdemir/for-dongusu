@@ -1,0 +1,16 @@
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\bin\Debug\net5.0\for-dongusu.exe
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\bin\Debug\net5.0\for-dongusu.deps.json
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\bin\Debug\net5.0\for-dongusu.runtimeconfig.json
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\bin\Debug\net5.0\for-dongusu.runtimeconfig.dev.json
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\bin\Debug\net5.0\for-dongusu.dll
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\bin\Debug\net5.0\ref\for-dongusu.dll
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\bin\Debug\net5.0\for-dongusu.pdb
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.AssemblyInfo.cs
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.dll
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\ref\for-dongusu.dll
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.pdb
+C:\Users\Owner\Desktop\Pratikler\for-dongusu\obj\Debug\net5.0\for-dongusu.genruntimeconfig.cache
